@@ -1,0 +1,12 @@
+{
+  "name": "guinn_checkers",
+  "version": "1.0.0",
+  "description": "GuiNN checkers is a free program that plays standard 8x8 checkers. It has its own GUI, and uses Neural Nets for the evaluation. It also supports the CheckerBoard interface.\r This Neural Net version was created as a generality test for the neural net code I had initially written for chess endgames. It is a quite strong checkers program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
